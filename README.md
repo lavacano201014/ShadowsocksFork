@@ -1,3 +1,9 @@
+Disclaimer
+==========
+I am not a Chinese citizen. I am not currently, nor have not been in any way, affiliated with the country of China or its government. I maintain this fork for the interests of my fellow citizens of the United States of America. The "build status" image below has not been updated to reflect the state of this repository and is still attempting to gbuild shadowsocks/shadowsocks (which had been taken down).
+
+I have no quarrel with the Chinese people using this program, though I must insist that any and all bug reports be filed in English (as that is the only language I'm fluent in).
+
 shadowsocks
 ===========
 
